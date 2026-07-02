@@ -1,7 +1,10 @@
 {
-    "name": "bot",
+    "name": "shonfx-bot-trading",
     "private": true,
     "version": "0.0.1",
+    "description": "SHONFX - Advanced Deriv Bot Trading Platform by SHONFXKENYA",
+    "author": "SHONFXKENYA",
+    "homepage": "https://shonfx.site",
     "engines": {
         "node": "22.x"
     },
