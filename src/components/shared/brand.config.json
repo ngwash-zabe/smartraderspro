@@ -1,6 +1,6 @@
 {
-    "brand_name": "Deriv",
-    "domain_name": "Deriv.com",
+    "brand_name": "SHONFXKENYA",
+    "domain_name": "shonfx.site",
     "legal_entities": {
         "fx": "Deriv (FX) Ltd",
         "malta": "Deriv (Europe) Limited",
@@ -16,7 +16,7 @@
             "icon": "IcRebrandingDerivTrader"
         },
         "dbot": {
-            "name": "Deriv Bot",
+            "name": "SHONFX",
             "icon": "IcRebrandingDerivBot"
         },
         "mt5": {
@@ -51,7 +51,7 @@
             "availability": "All"
         },
         "dbot": {
-            "name": "Deriv Bot",
+            "name": "SHONFX",
             "icon": "DBot",
             "availability": "Non-EU"
         },
